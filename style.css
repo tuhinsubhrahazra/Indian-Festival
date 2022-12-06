@@ -109,7 +109,14 @@ a:hover{
         flex-wrap: wrap;
     }
 
-    
+    .backg h1{
+        padding-top: 80px;
+        font-size: 40px;
+    }
+
+    .abfes{
+        font-size: 20px;
+    }
 
     .backg p{
         margin-right: 200px;
